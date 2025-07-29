@@ -148,7 +148,7 @@ const Homepage = (props) => {
                 data-aos="fade-up"
                 data-aos-delay="300"
             >
-                Products Feature
+                Pro Feature
             </p>
             <Pro_Demo />
 
